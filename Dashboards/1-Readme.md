@@ -1,7 +1,7 @@
 # Sales Report:
 
 ### Data source:
-- based on PowerBI course on Udemy
+- Based on PowerBI course on Udemy
 
 ### Data model type:
 - Star schema
