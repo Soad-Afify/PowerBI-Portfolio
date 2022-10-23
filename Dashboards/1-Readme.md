@@ -6,7 +6,7 @@
 ### Data model type:
 - Star schema
 
-### Report visualizartion:
+### Report visualization:
 - Measures are assigned to cards
 - Horizontal filter by color
 - Sales amount per year
