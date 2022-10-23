@@ -1,4 +1,4 @@
-# Sales Report:
+# Sales Comparison YTD:
 
 ### Data source:
 - Based on PowerBI course on 365Datascience
@@ -6,7 +6,7 @@
 ### Data model type:
 - Star schema
 
-### Report visualizartion:
+### Report visualization:
 - Measures are assigned to cards, to compare sales perofomance metrics for the selected year with the previous year
 - Horizontal filter by year
 
