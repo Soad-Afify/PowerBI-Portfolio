@@ -18,4 +18,4 @@
 
 
 
-![Restuarant](https://user-images.githubusercontent.com/92275978/198151157-12123215-078c-4542-bf26-9d881ff41dc3.jpg)
+![Rest](https://user-images.githubusercontent.com/92275978/198842023-094edf81-9b5f-415a-ac87-d187f65a8c8c.jpg)
